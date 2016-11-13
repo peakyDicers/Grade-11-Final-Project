@@ -1,5 +1,5 @@
 # READ-ME
-Other than the images, this entire game is coded by myself. I spent much of my winter break coding this game and am pretty proud of what I was able to accomplish in an approximately one month window. 
+Other than the images, this entire game is coded by myself. I spent much of my winter break coding this game and am pretty proud of what I was able to accomplish in an approximate one month window. 
 
 I made this game as my final project for my grade 11 computer science class back in 2014-2015. This was completed in within a one month window, in class and at home. I spent much of my winter break working on this game. This is my first game I coded in c# and being as such, there is some repetitive and inefficient coding. I have learnt a lot since then, and my new knowledge can be seen in my Grade 12 Final Project.
 
