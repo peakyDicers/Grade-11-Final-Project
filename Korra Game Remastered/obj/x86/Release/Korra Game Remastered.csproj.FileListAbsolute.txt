@@ -1,0 +1,22 @@
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\bin\Release\Korra Game Remastered.exe.manifest
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\bin\Release\Korra Game Remastered.application
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\bin\Release\Korra Game Remastered.exe
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\bin\Release\Korra Game Remastered.pdb
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\bin\Release\AudioPlayer.dll
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\bin\Release\AudioPlayer.pdb
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.csproj.GenerateResource.Cache
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.exe.manifest
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.application
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.exe
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.pdb
+C:\Users\Ian Chui\Documents\Visual Studio 2010\Projects\Korra Game Remastered\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.csprojResolveAssemblyReference.cache
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.csprojResolveAssemblyReference.cache
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\WindowsFormsApplication1.MainMenu.resources
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.csproj.GenerateResource.Cache
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.exe
+C:\Users\peakyDicers\Documents\Repos\korra-game\Korra Game Remastered\obj\x86\Release\Korra Game Remastered.pdb
